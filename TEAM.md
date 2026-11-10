@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Team
 
 > Điền file này trên repo chung do nhóm trưởng fork. Nhóm điền phần **Thông tin nhóm** và **Thành viên**. Mỗi người tự điền phần của mình trong **Cá nhân**. Không copy file này sang repo khác.
@@ -58,3 +59,28 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 **Điều mình học được từ phần nhóm:**
 
 - Hiểu rõ rủi ro khi chọn bài toán đã có công cụ giải quyết quá tốt (như NotebookLM) hoặc bài toán chỉ cần Rule/Script là đủ, từ đó tập trung vào bài toán có giá trị thực tế nhất
+
+### DangDucMinh-2A202603886
+
+**Phần việc phụ trách:**
+
+- Đề xuất và pitch Candidate #1 (Lọc tin nhắn nhóm).
+- Xây dựng bảng Cluster, cây OST và tiêu chí chấm điểm shortlist trong CP3.
+- Cùng nhóm xây dựng quy trình trước/sau và viết Problem Statement.
+
+**Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
+
+- Hoàn thành báo cáo cá nhân với 8 scan problems và 3 Problem Cards (CP1, CP2).
+- Đồng xây dựng và hoàn thiện mục 2 (CP3), mục 4, 5 (CP5), mục 6, 7 (CP6) trong `group_report.md`.
+- Lập trình C# sinh 2 sơ đồ quy trình trực quan chuẩn Draw.io dark-theme `cp5-workflow-current.png` và `cp5-workflow-future.png` trong `report/assets/`.
+
+**Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
+
+- `report/individual/2A202603886_DangDucMinh.md`
+- Mục 2, 4, 5, 6, 7 trong `report/team/group_report.md`
+- `report/assets/cp5-workflow-current.png`, `report/assets/cp5-workflow-future.png`, `report/assets/GenerateDiagrams.cs`
+
+**Điều mình học được từ phần nhóm:**
+
+- Nhận ra sự khác biệt giữa Opportunity (nhu cầu/nỗi đau thật) và Solution (giải pháp trá hình) khi xây dựng cây OST.
+- Học cách dùng bảng tiêu chí chấm điểm để hội tụ nhóm một cách khách quan thay vì tranh luận theo cảm tính.
