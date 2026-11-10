@@ -1,9 +1,9 @@
-# Báo cáo nhóm — Day 02 Discovery & Problem Framing
+# Báo cáo nhóm - Day 02 Discovery & Problem Framing
 
 ## 1. Thông tin nhóm
 
 - Tên nhóm: SieuBaKhi
-- Thành viên: Đặng Đức Minh (2A202603886), Phạm Quốc Huy (2A202603897) — chi tiết xem `TEAM.md`
+- Thành viên: Đặng Đức Minh (2A202603886), Phạm Quốc Huy (2A202603897) - xem `TEAM.md`
 - Candidate problem được chọn (1 câu): Lọc và tổng hợp thông tin quan trọng / task cần làm từ các kênh chat nhóm dự án vào mỗi sáng để tránh trôi deadline và tiết kiệm thời gian đọc tin.
 - Quyết định cuối: Go / Not Yet / No-Go
 
@@ -26,9 +26,9 @@
 
 | Cluster | Các candidate | Pattern chung |
 |---|---|---|
-| A — Quản lý thông tin & tin nhắn giao tiếp nhóm | Candidate #1 (Minh) & Candidate #5 (Huy) | Quá tải thông tin từ các kênh chat; tin nhắn công việc quan trọng/deadline bị trôi giữa các tin nhắn rác hoặc chat phiếm, tốn thời gian rà soát thủ công mỗi sáng |
-| B — Khôi phục & thiết lập môi trường làm việc kỹ thuật | Candidate #2 (Minh) & Candidate #6 (Huy) | Tiêu tốn thời gian chết (overhead) khi bắt đầu làm việc; phải cấu hình thủ công dependencies, extension hoặc mở lại nhiều tab/công cụ rời rạc |
-| C — Xử lý và tổng hợp tri thức / tài liệu dự án | Candidate #3 (Minh) & Candidate #4 (Huy) | Phải đọc và xâu chuỗi lượng lớn dữ liệu thô (commit/code diff hoặc slide bài giảng) rồi tự tổng hợp thành văn bản có cấu trúc cho bản thân hoặc người khác đọc |
+| A - Quản lý thông tin & tin nhắn giao tiếp nhóm | Candidate #1 (Minh) & Candidate #5 (Huy) | Quá tải thông tin từ các kênh chat; tin nhắn công việc quan trọng/deadline bị trôi giữa các tin nhắn rác hoặc chat phiếm, tốn thời gian rà soát thủ công mỗi sáng |
+| B - Khôi phục & thiết lập môi trường làm việc kỹ thuật | Candidate #2 (Minh) & Candidate #6 (Huy) | Tiêu tốn thời gian chết (overhead) khi bắt đầu làm việc; phải cấu hình thủ công dependencies, extension hoặc mở lại nhiều tab/công cụ rời rạc |
+| C - Xử lý và tổng hợp tri thức / tài liệu dự án | Candidate #3 (Minh) & Candidate #4 (Huy) | Phải đọc và xâu chuỗi lượng lớn dữ liệu thô (commit/code diff hoặc slide bài giảng) rồi tự tổng hợp thành văn bản có cấu trúc cho bản thân hoặc người khác đọc |
 
 ### 2.3. Opportunity Solution Tree rút gọn
 
@@ -57,7 +57,7 @@ Những ý đã gạch bỏ vì là solution đội lốt opportunity:
 | Candidate #6: Khôi phục workspace dự án khi mở máy (Huy) | 5 | 5 | 4 | 4 | 5 | 2 | 5 | **30** |
 
 **Candidate được chọn:**
-Candidate #1 — Lọc và tổng hợp thông tin quan trọng / task cần làm từ các kênh chat nhóm làm việc/dự án vào mỗi sáng.
+Candidate #1 - Lọc và tổng hợp thông tin quan trọng / task cần làm từ các kênh chat nhóm làm việc/dự án vào mỗi sáng.
 
 **Vì sao chọn:**
 1. Đạt điểm cao nhất (34/35) trên 7 tiêu chí đánh giá khách quan.
@@ -83,7 +83,7 @@ Ban đầu Huy muốn chọn Candidate #4 vì thời gian bỏ ra lớn (1–2 t
 | 1 | Sinh viên và thành viên dự án khác cũng mất 30–60 phút mỗi sáng để đọc và lọc tin nhắn trong các kênh nhóm | Value | 5 | 3 | ✅ |
 | 2 | Người dùng quan tâm nhất là không bỏ sót Deadline và Action Item khẩn, hơn là đọc tóm tắt nội dung chat phiếm | Value | 5 | 4 | ✅ |
 | 3 | Người dùng sẵn sàng tin tưởng bản tóm tắt Action Items từ AI nếu có trích dẫn/link dẫn tới tin nhắn gốc để đối chiếu | Usability | 4 | 2 | ✅ |
-| 4 | Nền tảng Discord và Telegram hỗ trợ Bot API/Webhook đọc tin nhắn trong kênh nhóm làm việc công khai | Feasibility | 5 | 5 | — |
+| 4 | Nền tảng Discord và Telegram hỗ trợ Bot API/Webhook đọc tin nhắn trong kênh nhóm làm việc công khai | Feasibility | 5 | 5 | - |
 | 5 | Thành viên trong nhóm làm việc đồng ý cho Bot tham gia kênh dự án mà không lo ngại vi phạm quyền riêng tư | Viability | 4 | 2 | ✅ |
 
 *Điền 4–6 giả định; xóa dòng thừa.*
@@ -143,7 +143,7 @@ Tổng hợp:
 ![Sơ đồ quy trình hiện tại (As-Is)](../assets/cp5-workflow-current.png)
 
 ```text
-HIỆN TẠI — 5 bước, 60 phút, 5/5 bước thủ công:
+HIỆN TẠI - 5 bước, 60 phút, 5/5 bước thủ công:
 
 [1. Mở app chat: 5'] → [2. Lướt tìm kênh có tin mới: 10']
 → [3. Đọc lướt hàng chục tin: 20'] ← BOTTLENECK (20 phút)
@@ -167,7 +167,7 @@ Bước 3 & Bước 4 (Đọc lướt và tự lọc thông tin quan trọng): C
 ![Sơ đồ quy trình tương lai (To-Be)](../assets/cp5-workflow-future.png)
 
 ```text
-TƯƠNG LAI — 3 bước, khoảng 12–15 phút, 1/3 bước thủ công:
+TƯƠNG LAI - 3 bước, khoảng 12–15 phút, 1/3 bước thủ công:
 
 [1. Bot quét tin tự động: 1']           ← RULE / SCRIPT
 → [2. LLM trích xuất Action Items: 1']   ← AI WORKFLOW
@@ -179,9 +179,9 @@ FALLBACK: Bot/LLM lỗi → người dùng dùng bộ lọc Mention only và Pin
 
 Phân định rõ trách nhiệm trong quy trình tương lai:
 
-- **Bước 1 — Rule / Script (Tự động chạy lúc 8:00 AM - 1 phút):** Script/Bot tự động kích hoạt theo lịch, gọi Bot API (Discord / Telegram) để lấy các tin nhắn chưa đọc trong các kênh dự án được chỉ định (Rule lọc bỏ tin nhắn hệ thống, tin nhắn từ bot khác).
-- **Bước 2 — AI Workflow (LLM xử lý - 1 phút):** Mô hình ngôn ngữ (Gemini Flash) tiếp nhận chuỗi hội thoại, nhận diện các câu thảo luận có tính cam kết hoặc phân công, trích xuất ra cấu trúc: `[Deadline] - [Người phụ trách] - [Nội dung việc cần làm] - [Link trích dẫn tin nhắn gốc]`, định dạng thành bản tin **Morning Digest**.
-- **Bước 3 — Con người kiểm tra & duyệt (Human-in-the-Loop - 10–12 phút):** Người dùng thức dậy mở xem bản Digest; nhấp vào link đối chiếu lại ngữ cảnh đối với các task khẩn cấp; bấm xác nhận để đồng bộ task vào to-do list cá nhân.
+- **Bước 1 - Rule / Script (Tự động chạy lúc 8:00 AM - 1 phút):** Script/Bot tự động kích hoạt theo lịch, gọi Bot API (Discord / Telegram) để lấy các tin nhắn chưa đọc trong các kênh dự án được chỉ định (Rule lọc bỏ tin nhắn hệ thống, tin nhắn từ bot khác).
+- **Bước 2 - AI Workflow (LLM xử lý - 1 phút):** Mô hình ngôn ngữ (Gemini Flash) tiếp nhận chuỗi hội thoại, nhận diện các câu thảo luận có tính cam kết hoặc phân công, trích xuất ra cấu trúc: `[Deadline] - [Người phụ trách] - [Nội dung việc cần làm] - [Link trích dẫn tin nhắn gốc]`, định dạng thành bản tin **Morning Digest**.
+- **Bước 3 - Con người kiểm tra & duyệt (Human-in-the-Loop - 10–12 phút):** Người dùng thức dậy mở xem bản Digest; nhấp vào link đối chiếu lại ngữ cảnh đối với các task khẩn cấp; bấm xác nhận để đồng bộ task vào to-do list cá nhân.
 
 **Boundary (Ranh giới bắt buộc):**
 - AI **tuyệt đối KHÔNG** tự ý gửi tin nhắn trả lời thay người dùng trong các nhóm chat.
@@ -252,12 +252,12 @@ Vì sao:
 
 | Thành phần | Nội dung |
 |---|---|
-| **Prediction** — AI dự đoán / tạo ra gì? | Dự đoán và trích xuất từ chuỗi hội thoại: (1) Đoạn chat nào chứa công việc/task cần làm? (2) Ai là người chịu trách nhiệm? (3) Hạn chót (Deadline) cụ thể khi nào? (4) Mức độ khẩn cấp (Gấp hay Bình thường)? |
-| **Judgment** — con người cân nhắc, quyết định gì? | Người dùng mở xem Morning Digest lúc 8:15 AM, đánh giá xem: Task này có đúng là việc của mình không? Thời hạn có chính xác không? Nếu chưa chắc chắn thì nhấp vào link đối chiếu lại ngữ cảnh tin nhắn gốc. |
-| **Action** — hành động cuối cùng là gì, ai làm? | Con người bấm nút "Xác nhận duyệt" trên giao diện Digest $\rightarrow$ Task được lưu vào to-do list cá nhân (Notion, Todoist). Nếu sai, người dùng bấm "Bỏ qua" hoặc chỉnh sửa nội dung. |
-| **Outcome** — đo kết quả bằng gì? | (1) Tiết kiệm 45 phút mỗi sáng (từ 60' xuống 12–15'); (2) Tỉ lệ bỏ sót deadline đồ án bằng 0%; (3) Giảm thiểu tối đa tải nhận thức đầu ngày. |
-| **Input** — AI cần dữ liệu đầu vào gì mỗi lần chạy? Có sẵn không? | Lịch sử tin nhắn văn bản chưa đọc trong vòng 24 giờ của các kênh dự án mở được chỉ định. Dữ liệu này luôn sẵn có và truy xuất tự động qua API bot chính thức của Discord/Telegram. |
-| **Feedback** — lấy phản hồi ở đâu để cải thiện? | Thu thập trực tiếp từ hành động của người dùng: Tỉ lệ bấm Duyệt, tỉ lệ bấm Bỏ qua, tỉ lệ bấm Sửa task, và số lần nhấp link xem lại tin gốc để đo lường độ tin cậy và tinh chỉnh prompt trích xuất. |
+| **Prediction** - AI dự đoán / tạo ra gì? | Dự đoán và trích xuất từ chuỗi hội thoại: (1) Đoạn chat nào chứa công việc/task cần làm? (2) Ai là người chịu trách nhiệm? (3) Hạn chót (Deadline) cụ thể khi nào? (4) Mức độ khẩn cấp (Gấp hay Bình thường)? |
+| **Judgment** - con người cân nhắc, quyết định gì? | Người dùng mở xem Morning Digest lúc 8:15 AM, đánh giá xem: Task này có đúng là việc của mình không? Thời hạn có chính xác không? Nếu chưa chắc chắn thì nhấp vào link đối chiếu lại ngữ cảnh tin nhắn gốc. |
+| **Action** - hành động cuối cùng là gì, ai làm? | Con người bấm nút "Xác nhận duyệt" trên giao diện Digest $\rightarrow$ Task được lưu vào to-do list cá nhân (Notion, Todoist). Nếu sai, người dùng bấm "Bỏ qua" hoặc chỉnh sửa nội dung. |
+| **Outcome** - đo kết quả bằng gì? | (1) Tiết kiệm 45 phút mỗi sáng (từ 60' xuống 12–15'); (2) Tỉ lệ bỏ sót deadline đồ án bằng 0%; (3) Giảm thiểu tối đa tải nhận thức đầu ngày. |
+| **Input** - AI cần dữ liệu đầu vào gì mỗi lần chạy? Có sẵn không? | Lịch sử tin nhắn văn bản chưa đọc trong vòng 24 giờ của các kênh dự án mở được chỉ định. Dữ liệu này luôn sẵn có và truy xuất tự động qua API bot chính thức của Discord/Telegram. |
+| **Feedback** - lấy phản hồi ở đâu để cải thiện? | Thu thập trực tiếp từ hành động của người dùng: Tỉ lệ bấm Duyệt, tỉ lệ bấm Bỏ qua, tỉ lệ bấm Sửa task, và số lần nhấp link xem lại tin gốc để đo lường độ tin cậy và tinh chỉnh prompt trích xuất. |
 
 ### 6.4. Hai câu hỏi của Google PAIR
 
@@ -326,15 +326,15 @@ Vì sao:
 **Lý do:**
 Bài toán có điểm đau lớn, rõ ràng và đã được kiểm chứng qua cả phỏng vấn thực tế lẫn nghiên cứu thị trường (Slack AI, Discord Bot). Mức can thiệp **Workflow with AI** giúp giải quyết triệt để 35 phút nút thắt cổ chai mà không gây ra rủi ro mất kiểm soát hay chi phí tốn kém như Agent. Cả 4 rủi ro đều ở mức an toàn.
 
-**Nếu Go — pilot nhỏ nhất:**
+**Nếu Go - pilot nhỏ nhất:**
 - Triển khai thử nghiệm trong vòng **2 tuần** trên **01 Discord server** và **01 nhóm Telegram** của nhóm đồ án công nghệ (quy mô 4–6 thành viên).
 - Mỗi sáng lúc 8:00 AM bot tự động quét và gửi Morning Digest vào kênh riêng `#daily-digest`.
 - Thành viên sử dụng thử, tự ghi nhật ký thời gian xử lý mỗi sáng và chấm điểm mức độ hài lòng.
 
-**Nếu Not Yet — cần kiểm chứng gì trước:**
+**Nếu Not Yet - cần kiểm chứng gì trước:**
 *(Không áp dụng vì nhóm đã đủ bằng chứng xác thực).*
 
-**Nếu No-Go — nên làm gì thay AI:**
+**Nếu No-Go - nên làm gì thay AI:**
 *(Không áp dụng vì nhóm quyết định Go).*
 
 **Ngưỡng dừng định lượng (Stopping Threshold):**
@@ -362,8 +362,8 @@ $\rightarrow$ **DỪNG DỰ ÁN NGAY LẬP TỨC**, hủy bỏ việc phát tri�
 
 ## 10. Tài liệu tham khảo
 
-1. **Slack Technologies (2024).** *Guide to AI features in Slack — Search and conversation summaries.* Truy cập tại: [https://slack.com/help/articles/25076892548883-Guide-to-AI-features-in-Slack](https://slack.com/help/articles/25076892548883-Guide-to-AI-features-in-Slack) (Tài liệu về tính năng tự động tóm tắt kênh chat và thread thảo luận của Slack).
+1. **Slack Technologies (2024).** *Guide to AI features in Slack - Search and conversation summaries.* Truy cập tại: [https://slack.com/help/articles/25076892548883-Guide-to-AI-features-in-Slack](https://slack.com/help/articles/25076892548883-Guide-to-AI-features-in-Slack) (Tài liệu về tính năng tự động tóm tắt kênh chat và thread thảo luận của Slack).
 2. **Discord Blog (2023).** *AI on Discord: Your Place for AI with Friends.* Truy cập tại: [https://discord.com/blog/ai-on-discord-your-place-for-ai-with-friends](https://discord.com/blog/ai-on-discord-your-place-for-ai-with-friends) (Bài viết chính thức của Discord về tính năng Conversation Summaries tự động nhóm tin nhắn thành các chủ đề có thể đọc lướt nhanh).
 3. **Open-source Project (2024).** *Telegram Group Chat Summarizer Bot.* Repository: [https://github.com/moalimir/Telegram-Group-Chat-Summarizer-Bot](https://github.com/moalimir/Telegram-Group-Chat-Summarizer-Bot) (Dự án mã nguồn mở ứng dụng LLM tóm tắt tin nhắn nhóm Telegram).
-4. **Google PAIR (People + AI Research).** *People + AI Guidebook — Designing human-centered AI products.* Truy cập tại: [https://pair.withgoogle.com/guidebook/](https://pair.withgoogle.com/guidebook/) (Nguyên tắc thiết kế hệ thống AI hỗ trợ con người, xử lý lỗi False Positive / False Negative và thiết kế Human-in-the-Loop).
+4. **Google PAIR (People + AI Research).** *People + AI Guidebook - Designing human-centered AI products.* Truy cập tại: [https://pair.withgoogle.com/guidebook/](https://pair.withgoogle.com/guidebook/) (Nguyên tắc thiết kế hệ thống AI hỗ trợ con người, xử lý lỗi False Positive / False Negative và thiết kế Human-in-the-Loop).
 5. **Rob Fitzpatrick (2013).** *The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you.* (Phương pháp phỏng vấn kiểm chứng nhu cầu thực tế dựa trên hành vi quá khứ).
